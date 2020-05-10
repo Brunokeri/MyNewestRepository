@@ -1,0 +1,49 @@
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-image: url(images/topography.png);
+    } 
+    #title {
+        font-size: larger;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    #not-sure {
+        color: rgb(255, 0, 255);
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #text {
+        font-size: larger;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #line {
+     font-size: xx-large;
+     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    }
+    #more {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+    }
+    #navbar-div {
+        background-color: rgb(63, 63, 63);
+        height: 50px;
+    }
+    a {
+        color: rgb(255, 0, 255);
+        font-size: 20px;
+    }
+    .center {
+        padding-left:20px;
+        padding-top: 8px;
+    }
+    .link {
+        text-align: right;
+        float: right;
+        padding-right: 10px;
+        padding-top: 10px;
+    }
+    #border {
+     padding-right: 10px;
+     padding-left: 10px;
+    }
